@@ -8,6 +8,7 @@
 <a href="https://www.youtube.com/watch?v=F6fZduE7Alg"><img src="https://img.shields.io/badge/Watch-the%20demo-ff0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0b0f14" alt="Watch the demo"></a>
 <a href="https://www.linkedin.com/company/phantera-tn/"><img src="https://img.shields.io/badge/LinkedIn-Phantera-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b0f14" alt="LinkedIn"></a>
 <a href="https://medium.com/@phantera"><img src="https://img.shields.io/badge/Medium-@phantera-ffffff?style=for-the-badge&logo=medium&logoColor=white&labelColor=0b0f14" alt="Medium"></a>
+<a href="https://www.youtube.com/@phantera-tn"><img src="https://img.shields.io/badge/YouTube-@phantera--tn-ff0033?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0b0f14" alt="YouTube"></a>
 
 <br/><br/>
 
