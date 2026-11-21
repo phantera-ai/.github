@@ -67,6 +67,16 @@ A yes, a no, or a "not now": the moment someone answers, nobody gets the follow-
 
 <br/>
 
+## Gifts to our community
+
+<a href="https://github.com/phantera-ai/rightsize"><img src="https://raw.githubusercontent.com/phantera-ai/rightsize/main/docs/assets/phantera-gift-banner.png" alt="rightsize, a gift from Phantera" width="100%"></a>
+
+**[rightsize](https://github.com/phantera-ai/rightsize)** · The Claude Code plugin we use to build Phantera. Same quality, up to 98% cheaper on measured tasks. Free, MIT, one-line install. If it saves you a dollar, pay us in stars.
+
+More to come. Watch this organization to get the next one the day it ships.
+
+<br/>
+
 ## Compare before you choose
 
 We read the help centers so you don't have to.
